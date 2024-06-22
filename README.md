@@ -26,12 +26,8 @@ The following is an example of a .fdf file we use as an input for our program:
 0 0 0 0 0 0 0 0 0 1 2
 0 0 0 0 0 0 0 0 0 0 1
 ```
-which produces the following:
-
 ### simple grid
 
-<img width="1236" alt="https://user-images.githubusercontent.com/46035129/198556210-945d8773-a2c8-4288-89d8-a15f4d3462ab.png
-">
 <img width="1236" alt="Screen Shot 2022-09-15 at 2 34 42 PM" src="https://user-images.githubusercontent.com/21006147/190404352-288d7bf1-5f43-4e2d-8033-f16bca534ca6.gif">
 
 
