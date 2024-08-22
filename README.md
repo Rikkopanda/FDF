@@ -27,7 +27,7 @@ The following is an example of a .fdf file we use as an input for our program:
 0 0 0 0 0 0 0 0 0 0 1
 ```
 which produces the following:
-![Uploading 190404000-e2acf21e-72f6-449b-afe2-5c0bdd076f29.gif…]()
+![Screenshot from 2024-08-22 09-42-38](https://github.com/user-attachments/assets/9246d1ad-4aab-44b5-b994-3d2e85c16bab)
 
 ### simple grid
 picture coming
