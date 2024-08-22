@@ -19,6 +19,8 @@ Usage:
 
 ./fdf maps/test_maps/(any map you like)
 
+[keybinds in program](https://github.com/Rikkopanda/FDF/blob/main/Keybinds.txt)
+
 ## Examples
 
 ### Simple example of functionality
