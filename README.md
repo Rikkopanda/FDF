@@ -10,9 +10,11 @@ Also it is possible to move and rotate the view perspective.
 
 The program can be build with a simple `make all`
 You do need to have the X11 server and X11 library, where the minilibx library is based upon.
+
 Compiling:
 This project makes use of the MLX42 library.
 The MLX42 library makes use of glfw3 and OpenGL
+
 Usage:
 run in the terminal;
 ./fdf maps/test_maps/(any map you like)
