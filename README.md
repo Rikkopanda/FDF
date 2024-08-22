@@ -16,7 +16,7 @@ This project makes use of the MLX42 library.
 The MLX42 library makes use of glfw3 and OpenGL
 
 Usage:
-run in the terminal;
+
 ./fdf maps/test_maps/(any map you like)
 
 ## Examples
