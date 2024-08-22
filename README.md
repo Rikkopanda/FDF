@@ -30,12 +30,11 @@ which produces the following:
 ![Uploading 190404000-e2acf21e-72f6-449b-afe2-5c0bdd076f29.gif…]()
 
 ### simple grid
-
-<img width="1236" alt="Screen Shot 2022-09-15 at 2 34 42 PM" src="https://user-images.githubusercontent.com/21006147/190404352-288d7bf1-5f43-4e2d-8033-f16bca534ca6.gif">
-
+picture coming
 
 ### Example of rotation, translation, zoom, flattening and perspective changes(coming)
-coming
+picture coming
+
 ### Example of map with custom colors
 
 <img width="1236" alt="Screen Shot 2022-09-15 at 2 34 42 PM" src="https://user-images.githubusercontent.com/21006147/190404961-988cedf9-bed6-417f-bed3-eb5dc2b7afda.png">
