@@ -30,10 +30,11 @@ which produces the following:
 ![Screenshot from 2024-08-22 09-42-38](https://github.com/user-attachments/assets/9246d1ad-4aab-44b5-b994-3d2e85c16bab)
 
 ### simple grid
-picture coming
+![Screenshot from 2024-08-22 09-42-38](https://github.com/user-attachments/assets/1cdf675f-5fd6-47e3-9b5a-987b602a939b)
 
-### Example of rotation, translation, zoom, flattening and perspective changes(coming)
-picture coming
+### video of rotation, translation, zoom, flattening and perspective changes(coming)
+[Screencast from 22-08-24 09:49:48.webm](https://github.com/user-attachments/assets/f4419895-2b35-4d01-98fc-1b6aa3b08064)
+
 
 ### Example of map with custom colors
 
