@@ -1,0 +1,20 @@
+Rotate Model
+Q	+Around Y
+W   +Around Z
+E   -Around Y
+A   -Around X
+S   -Around Z
+D   +Around X
+Rotate view
+I	Over
+K   Backwards
+J   leftwards
+L   rightwards
+Zoom
++ 
+-
+Moving
+left 
+right
+down 
+up    
