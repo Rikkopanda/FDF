@@ -19,7 +19,7 @@ Usage:
 
 ./fdf maps/test_maps/(any map you like)
 
-[keybinds in program](https://github.com/Rikkopanda/FDF/blob/main/Keybinds.txt)
+[link to keybinds for in the program](https://github.com/Rikkopanda/FDF/blob/main/Keybinds.txt)
 
 ## Examples
 
